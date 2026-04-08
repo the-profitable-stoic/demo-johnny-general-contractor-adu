@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-johnny-general-contractor-adu.dream-surge.com/sitemap-index.xml

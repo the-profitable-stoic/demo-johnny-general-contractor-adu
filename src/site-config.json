@@ -1,0 +1,588 @@
+{
+  "business": {
+    "name": "Johnny General Contractor ADU",
+    "phone": "+18582218304",
+    "category": "remodeling contractor",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "San Diego's ADU & Remodeling Experts",
+      "heroSubline": "Building permits to perfect finishes, we handle it all. Transform your San Diego home with confidence and expertise.",
+      "aboutTitle": "Crafting San Diego Homes, One Project at a Time",
+      "aboutText": [
+        "Johnny General Contractor ADU started with a simple mission: to deliver exceptional remodeling services with unwavering integrity to our San Diego neighbors. We've grown from a small team to a trusted name in home renovation, driven by a passion for quality craftsmanship and customer satisfaction.",
+        "We believe in a collaborative approach. From initial consultation to final walk-through, we work closely with you to understand your vision and bring it to life. Our transparent communication, detailed planning, and commitment to excellence ensures a smooth and stress-free remodeling experience.",
+        "San Diego is our home, and we're committed to giving back. We actively support local charities and organizations, believing that a strong community is built on strong relationships and shared values. We understand the unique needs of San Diego homeowners, from navigating coastal building codes to mitigating earthquake risks."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand San Diego's unique climate, building codes, and architectural styles."
+        },
+        {
+          "title": "Full-Service Solutions",
+          "description": "From design and permitting to construction and finishing, we handle every aspect of your project."
+        },
+        {
+          "title": "Quality Craftsmanship",
+          "description": "We use only the finest materials and employ skilled tradespeople to ensure lasting results."
+        },
+        {
+          "title": "Transparent Communication",
+          "description": "We keep you informed every step of the way, providing clear and honest communication."
+        }
+      ],
+      "ctaHeadline": "Ready to Transform Your Home?",
+      "ctaSubline": "Get a free consultation and discover the possibilities for your San Diego home."
+    },
+    "services": [
+      {
+        "slug": "adu-construction",
+        "name": "Accessory Dwelling Unit (ADU) Construction",
+        "shortDescription": "Unlock your property's potential with a custom-designed ADU.",
+        "description": "San Diego's housing market makes ADUs an increasingly popular option. We specialize in designing and building ADUs that maximize space, increase property value, and provide flexible living solutions. From initial feasibility studies and permitting to complete construction and finishing, we manage every detail of your ADU project. We understand the complex local regulations and can help you navigate the process seamlessly. Whether you're looking to create a rental income stream, provide housing for family members, or simply add extra living space, we'll work with you to design an ADU that meets your specific needs and budget. We account for San Diego's climate, including proper insulation and ventilation, and address any potential seismic considerations. Our team is experienced in building a variety of ADU styles, from detached units to garage conversions, ensuring a cohesive and aesthetically pleasing addition to your property.",
+        "process": [
+          "Step 1: Initial Consultation and Feasibility Study",
+          "Step 2: Design and Permitting",
+          "Step 3: Construction and Project Management",
+          "Step 4: Final Inspection and Handover"
+        ],
+        "benefits": [
+          "Increased Property Value",
+          "Rental Income Potential",
+          "Flexible Living Space",
+          "Enhanced Property Appeal"
+        ],
+        "faq": [
+          {
+            "question": "What are the zoning regulations for ADUs in San Diego?",
+            "answer": "San Diego's ADU regulations are constantly evolving. We stay up-to-date on the latest requirements and can help you navigate the permitting process."
+          },
+          {
+            "question": "How long does it take to build an ADU?",
+            "answer": "The timeline varies depending on the size and complexity of the project. A typical ADU build can take anywhere from 4 to 8 months after permits are approved."
+          },
+          {
+            "question": "What is the average cost of building an ADU?",
+            "answer": "Costs depend on size, materials, and design. We provide detailed estimates and work with you to stay within your budget."
+          }
+        ]
+      },
+      {
+        "slug": "kitchen-remodeling",
+        "name": "Kitchen Remodeling",
+        "shortDescription": "Transform your kitchen into the heart of your San Diego home.",
+        "description": "A well-designed kitchen is essential for any San Diego home. We specialize in creating functional and beautiful kitchens that reflect your personal style and meet your family's needs. From minor updates to complete renovations, we handle every aspect of your kitchen remodeling project. We consider the unique challenges of San Diego homes, such as salt air corrosion near the coast and intense sun exposure, ensuring that your new kitchen is built to last. We offer a wide range of design options, from modern and minimalist to traditional and rustic, and can help you select the perfect materials, appliances, and finishes to create your dream kitchen. We handle all aspects of the project, including demolition, electrical work, plumbing, cabinetry installation, and countertop fabrication. We are committed to providing a seamless and stress-free remodeling experience, ensuring that your kitchen renovation is completed on time and within budget.",
+        "process": [
+          "Step 1: Design Consultation and Planning",
+          "Step 2: Material Selection and Budgeting",
+          "Step 3: Demolition and Construction",
+          "Step 4: Installation and Finishing"
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Enhanced Functionality",
+          "Improved Aesthetics",
+          "Modernized Appliances"
+        ],
+        "faq": [
+          {
+            "question": "How long does a typical kitchen remodel take?",
+            "answer": "A full kitchen remodel typically takes 6-12 weeks, depending on the scope of the project and material availability."
+          },
+          {
+            "question": "Do I need to move out during the kitchen remodel?",
+            "answer": "While it's not always necessary, it can be more comfortable to move out during the demolition and construction phases. We'll work with you to minimize disruption."
+          },
+          {
+            "question": "Can you help me with kitchen design ideas?",
+            "answer": "Absolutely! We offer design consultations to help you explore different styles, layouts, and material options."
+          }
+        ]
+      },
+      {
+        "slug": "bathroom-remodeling",
+        "name": "Bathroom Remodeling",
+        "shortDescription": "Create a spa-like retreat in your own San Diego home.",
+        "description": "From small powder rooms to luxurious master bathrooms, we can transform your bathroom into a relaxing and functional space. We understand the importance of creating a bathroom that meets your specific needs and reflects your personal style. We offer a wide range of bathroom remodeling services, including: vanity installation, shower and tub replacement, tile work, plumbing and electrical upgrades, and lighting design. We use moisture-resistant materials and proper ventilation techniques to combat the humidity and potential mold growth in San Diego bathrooms. Whether you're looking for a modern, minimalist design or a classic, traditional look, we can help you create the bathroom of your dreams. We handle all aspects of the project, from demolition to final finishing, ensuring a seamless and stress-free remodeling experience.",
+        "process": [
+          "Step 1: Design Consultation and Planning",
+          "Step 2: Fixture and Material Selection",
+          "Step 3: Demolition and Plumbing/Electrical",
+          "Step 4: Installation and Finishing Touches"
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Improved Functionality",
+          "Enhanced Aesthetics",
+          "Water Conservation"
+        ],
+        "faq": [
+          {
+            "question": "How long does a bathroom remodel typically take?",
+            "answer": "A standard bathroom remodel usually takes 3-6 weeks, depending on the complexity of the project."
+          },
+          {
+            "question": "What are the most important considerations for bathroom ventilation in San Diego?",
+            "answer": "Proper ventilation is crucial to prevent mold and mildew growth. We recommend installing a high-quality exhaust fan and ensuring adequate airflow."
+          },
+          {
+            "question": "Can you help me choose water-efficient fixtures for my bathroom?",
+            "answer": "Yes! We offer a wide selection of water-saving toilets, showerheads, and faucets that can help you reduce your water bill and conserve resources."
+          }
+        ]
+      },
+      {
+        "slug": "whole-house-remodeling",
+        "name": "Whole House Remodeling",
+        "shortDescription": "Transform your entire home to reflect your lifestyle and needs.",
+        "description": "Ready for a complete home makeover? We specialize in whole house remodeling projects, transforming outdated and inefficient homes into modern, functional, and beautiful living spaces. We understand that a whole house remodel is a significant undertaking, and we are committed to providing a seamless and stress-free experience. Our team will work closely with you to develop a comprehensive design plan that meets your specific needs and budget. We handle all aspects of the project, from initial demolition to final finishing, ensuring that your home is transformed to your exact specifications. We are experienced in working with a variety of architectural styles, from 1920s cottages to modern suburban homes. We pay attention to detail and use only the highest quality materials to ensure that your remodel is built to last. We understand the unique challenges of remodeling older homes, such as asbestos abatement and lead paint removal, and we take all necessary precautions to ensure the safety of our workers and your family.",
+        "process": [
+          "Step 1: Initial Consultation and Design Development",
+          "Step 2: Detailed Planning and Budgeting",
+          "Step 3: Permitting and Pre-Construction",
+          "Step 4: Construction and Project Management"
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Improved Functionality",
+          "Enhanced Energy Efficiency",
+          "Personalized Living Space"
+        ],
+        "faq": [
+          {
+            "question": "How long does a whole house remodel typically take?",
+            "answer": "A whole house remodel can take anywhere from 6 months to a year, depending on the scope of the project and the size of the home."
+          },
+          {
+            "question": "Do I need to move out during a whole house remodel?",
+            "answer": "It is highly recommended that you move out during a whole house remodel, as the construction process can be disruptive and create a hazardous environment."
+          },
+          {
+            "question": "How do I prepare for a whole house remodel?",
+            "answer": "We will provide you with a detailed checklist to help you prepare for the remodel, including packing up your belongings, securing valuables, and making arrangements for temporary housing."
+          }
+        ]
+      },
+      {
+        "slug": "room-additions",
+        "name": "Room Additions",
+        "shortDescription": "Expand your living space with a seamless and functional room addition.",
+        "description": "Need more space? We specialize in designing and building room additions that seamlessly integrate with your existing home. Whether you're looking to add a new bedroom, bathroom, family room, or home office, we can help you create the extra space you need. We understand the importance of matching the architectural style of your existing home, ensuring that your room addition looks like it was always meant to be there. We handle all aspects of the project, from initial design and permitting to complete construction and finishing. We use high-quality materials and skilled tradespeople to ensure that your room addition is built to last. We pay attention to detail and ensure that all building codes are met. We understand the unique challenges of building room additions in San Diego, such as seismic considerations and coastal building codes.",
+        "process": [
+          "Step 1: Design Consultation and Planning",
+          "Step 2: Permitting and Approvals",
+          "Step 3: Foundation and Framing",
+          "Step 4: Interior Finishing and Detailing"
+        ],
+        "benefits": [
+          "Increased Living Space",
+          "Enhanced Home Value",
+          "Improved Functionality",
+          "Customized Design"
+        ],
+        "faq": [
+          {
+            "question": "How long does it take to build a room addition?",
+            "answer": "The timeline for a room addition varies depending on the size and complexity of the project. A typical room addition can take anywhere from 3 to 6 months."
+          },
+          {
+            "question": "What permits are required for a room addition in San Diego?",
+            "answer": "You will typically need a building permit, electrical permit, and plumbing permit for a room addition. We can help you navigate the permitting process."
+          },
+          {
+            "question": "How much does a room addition cost?",
+            "answer": "The cost of a room addition depends on the size, materials, and design. We provide detailed estimates and work with you to stay within your budget."
+          }
+        ]
+      },
+      {
+        "slug": "deck-patio-construction",
+        "name": "Deck & Patio Construction",
+        "shortDescription": "Extend your living space outdoors with a custom-built deck or patio.",
+        "description": "San Diego's beautiful weather makes outdoor living a priority. We specialize in designing and building custom decks and patios that enhance your outdoor living experience. Whether you're looking for a simple patio for grilling and dining or a multi-level deck with a built-in spa, we can help you create the perfect outdoor space. We use weather-resistant materials and construction techniques to ensure that your deck or patio is built to last. We consider the unique challenges of San Diego's climate, such as intense sun exposure and salt air corrosion, when selecting materials and designing your outdoor space. We handle all aspects of the project, from initial design and permitting to complete construction and finishing. We are experienced in working with a variety of materials, including wood, composite decking, concrete, and pavers.",
+        "process": [
+          "Step 1: Design Consultation and Planning",
+          "Step 2: Material Selection and Permitting",
+          "Step 3: Site Preparation and Construction",
+          "Step 4: Finishing and Landscaping"
+        ],
+        "benefits": [
+          "Increased Outdoor Living Space",
+          "Enhanced Home Value",
+          "Improved Aesthetics",
+          "Relaxation and Entertainment"
+        ],
+        "faq": [
+          {
+            "question": "What materials are best for decks and patios in San Diego?",
+            "answer": "Composite decking and redwood are popular choices for decks in San Diego, as they are durable and resistant to weather damage. Concrete and pavers are good options for patios."
+          },
+          {
+            "question": "Do I need a permit to build a deck or patio?",
+            "answer": "In most cases, you will need a permit to build a deck or patio. We can help you navigate the permitting process."
+          },
+          {
+            "question": "How much does it cost to build a deck or patio?",
+            "answer": "The cost of building a deck or patio depends on the size, materials, and design. We provide detailed estimates and work with you to stay within your budget."
+          }
+        ]
+      },
+      {
+        "slug": "earthquake-retrofitting",
+        "name": "Earthquake Retrofitting",
+        "shortDescription": "Protect your home and family with professional earthquake retrofitting services.",
+        "description": "San Diego is located in an earthquake zone, making earthquake retrofitting a crucial investment for homeowners. We specialize in providing professional earthquake retrofitting services to help protect your home and family from the devastating effects of an earthquake. We use proven techniques and high-quality materials to strengthen your home's foundation and prevent it from collapsing during an earthquake. Our team is experienced in working with a variety of foundation types, including concrete slab, raised foundation, and hillside foundations. We understand the unique challenges of retrofitting older homes, which may not have been built to current seismic standards. We handle all aspects of the project, from initial inspection and assessment to complete retrofitting and reinforcement. We are committed to providing a safe and reliable service that gives you peace of mind.",
+        "process": [
+          "Step 1: Initial Inspection and Assessment",
+          "Step 2: Retrofitting Design and Planning",
+          "Step 3: Foundation Reinforcement",
+          "Step 4: Final Inspection and Certification"
+        ],
+        "benefits": [
+          "Increased Safety and Security",
+          "Reduced Risk of Structural Damage",
+          "Peace of Mind",
+          "Potential Insurance Discounts"
+        ],
+        "faq": [
+          {
+            "question": "Why is earthquake retrofitting important in San Diego?",
+            "answer": "San Diego is located in an earthquake zone, making earthquake retrofitting essential for protecting your home and family."
+          },
+          {
+            "question": "What are the signs that my home needs earthquake retrofitting?",
+            "answer": "Signs that your home may need earthquake retrofitting include a cracked foundation, unreinforced cripple walls, and a lack of proper bolting."
+          },
+          {
+            "question": "How much does earthquake retrofitting cost?",
+            "answer": "The cost of earthquake retrofitting depends on the size and type of your home. We provide detailed estimates and work with you to find affordable solutions."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Chula Vista",
+        "slug": "chula-vista-ca",
+        "state": "CA",
+        "content": "Johnny General Contractor ADU is proud to offer our expert ADU construction and remodeling services to the residents of Chula Vista. As one of the largest cities in San Diego County, Chula Vista boasts a diverse range of homes, many of which were built during the 1970s and 80s. This means many homeowners are now looking to modernize their spaces or add additional living space through an ADU.\n\nWe understand the unique needs of Chula Vista homeowners. Whether you're looking to update your kitchen, add a modern bathroom, or construct a detached ADU for rental income or family, our team has the experience and expertise to bring your vision to life. We are dedicated to providing high-quality workmanship, transparent communication, and exceptional customer service, ensuring your remodeling project is a success.",
+        "localContext": "Chula Vista's mild year-round climate makes it ideal for enjoying outdoor living spaces, and ADUs can extend that enjoyment. Many homes feature suburban designs from the late 20th century, presenting opportunities for modernization.",
+        "nearbyAreas": [
+          "San Diego",
+          "National City",
+          "Imperial Beach"
+        ]
+      },
+      {
+        "city": "Carlsbad",
+        "slug": "carlsbad-ca",
+        "state": "CA",
+        "content": "Johnny General Contractor ADU provides comprehensive ADU construction and remodeling services to Carlsbad residents. Known for its beautiful beaches and charming beach community cottages, Carlsbad presents unique opportunities for home improvement and ADU development. We are committed to helping Carlsbad homeowners enhance their properties and create functional, stylish living spaces. \n\nFrom kitchen and bathroom renovations to complete ADU builds, we tailor our services to meet your specific needs and preferences. Our team is experienced in working with a variety of architectural styles, ensuring that your remodeling project seamlessly integrates with the existing character of your home. We prioritize quality craftsmanship, attention to detail, and clear communication throughout every stage of the project.",
+        "localContext": "Carlsbad's coastal location and mild year-round climate make it an ideal location for ADUs. Many homes are beach cottages, requiring specific expertise for successful remodeling.",
+        "nearbyAreas": [
+          "Oceanside",
+          "Encinitas",
+          "Vista"
+        ]
+      },
+      {
+        "city": "Escondido",
+        "slug": "escondido-ca",
+        "state": "CA",
+        "content": "Johnny General Contractor ADU is your trusted partner for ADU construction and remodeling in Escondido. With a significant number of homes built in the 1960s and 70s, Escondido presents unique remodeling opportunities for homeowners looking to update their spaces. We specialize in transforming older ranch homes into modern, functional living areas.\n\nOur services include kitchen and bathroom remodels, whole-house renovations, and ADU construction. We understand the specific challenges and opportunities presented by older homes and are committed to providing solutions that enhance your home's value, comfort, and style. We pride ourselves on our commitment to quality, transparency, and customer satisfaction.",
+        "localContext": "Escondido's climate is mild year-round, and many homes are ranch-style houses from the mid-20th century. These homes are great candidates for ADUs.",
+        "nearbyAreas": [
+          "San Marcos",
+          "Vista",
+          "Poway"
+        ]
+      },
+      {
+        "city": "San Diego",
+        "slug": "san-diego-ca",
+        "state": "CA",
+        "content": "Johnny General Contractor ADU proudly serves the greater San Diego area, providing expert ADU construction and remodeling services to homeowners throughout the city. San Diego's diverse neighborhoods and architectural styles offer a wide range of remodeling opportunities, from historic homes to modern condos. We are committed to helping you create the home of your dreams.\n\nWhether you're looking to update your kitchen, remodel your bathroom, add an ADU for extra income or family, or undertake a complete home renovation, our team has the experience and expertise to handle any project. We prioritize quality craftsmanship, attention to detail, and clear communication to ensure your complete satisfaction.",
+        "localContext": "San Diego has a fantastic climate that allows for year-round outdoor living. ADUs can help homeowners maximize their property's potential.",
+        "nearbyAreas": [
+          "La Jolla",
+          "Pacific Beach",
+          "Downtown San Diego"
+        ]
+      },
+      {
+        "city": "Oceanside",
+        "slug": "oceanside-ca",
+        "state": "CA",
+        "content": "Johnny General Contractor ADU is dedicated to providing top-notch ADU construction and remodeling services in Oceanside. Known for its beautiful beaches and laid-back lifestyle, Oceanside presents unique opportunities for home improvement and ADU development. We are committed to helping Oceanside homeowners enhance their properties and create functional, stylish living spaces.\n\nFrom kitchen and bathroom renovations to complete ADU builds, we tailor our services to meet your specific needs and preferences. Our team is experienced in working with a variety of architectural styles, ensuring that your remodeling project seamlessly integrates with the existing character of your home. We prioritize quality craftsmanship, attention to detail, and clear communication throughout every stage of the project.",
+        "localContext": "Oceanside's coastal location and mild climate make it an ideal place for ADUs. The city offers a mix of older and newer homes, each with remodeling potential.",
+        "nearbyAreas": [
+          "Carlsbad",
+          "Vista",
+          "San Marcos"
+        ]
+      },
+      {
+        "city": "Encinitas",
+        "slug": "encinitas-ca",
+        "state": "CA",
+        "content": "Johnny General Contractor ADU specializes in ADU construction and remodeling services in Encinitas. With its beautiful beaches, surf culture, and unique neighborhoods, Encinitas offers a variety of opportunities for homeowners looking to improve their properties. We are committed to helping you create the perfect living space.\n\nWhether you're looking to remodel your kitchen, update your bathroom, build an ADU, or renovate your entire home, our team has the expertise to bring your vision to life. We pride ourselves on our commitment to quality, transparency, and customer satisfaction.",
+        "localContext": "Encinitas has some of the best beaches in the area. ADUs can help residents take advantage of the local climate and lifestyle.",
+        "nearbyAreas": [
+          "Carlsbad",
+          "Solana Beach",
+          "Leucadia"
+        ]
+      },
+      {
+        "city": "Vista",
+        "slug": "vista-ca",
+        "state": "CA",
+        "content": "Johnny General Contractor ADU is a leading provider of ADU construction and remodeling services in Vista. Known for its family-friendly atmosphere and diverse housing options, Vista offers numerous opportunities for homeowners looking to enhance their properties. We are dedicated to providing high-quality workmanship and exceptional customer service.\n\nOur services include kitchen and bathroom remodels, ADU construction, whole-house renovations, and more. We understand the unique needs of Vista homeowners and are committed to delivering projects that exceed expectations. We prioritize clear communication, transparency, and attention to detail throughout every stage of the remodeling process.",
+        "localContext": "Vista's mild climate and mix of housing styles make it a great place to add an ADU. Many homes could benefit from modernization.",
+        "nearbyAreas": [
+          "San Marcos",
+          "Oceanside",
+          "Escondido"
+        ]
+      },
+      {
+        "city": "San Marcos",
+        "slug": "san-marcos-ca",
+        "state": "CA",
+        "content": "Johnny General Contractor ADU proudly serves the San Marcos community, offering comprehensive ADU construction and remodeling services. With its growing population and diverse housing market, San Marcos presents numerous opportunities for homeowners looking to improve their properties. We are committed to providing innovative solutions and exceptional craftsmanship.\n\nWhether you're looking to remodel your kitchen, update your bathroom, build an ADU, or renovate your entire home, our team has the expertise to handle any project. We pride ourselves on our commitment to quality, transparency, and customer satisfaction.",
+        "localContext": "San Marcos is a growing city with a great climate. ADUs can help homeowners maximize the value of their properties.",
+        "nearbyAreas": [
+          "Vista",
+          "Escondido",
+          "Carlsbad"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Kitchen Remodel",
+        "text": "Johnny and his team completely transformed my outdated kitchen. They were professional, efficient, and always kept me informed throughout the process. The quality of their work is outstanding, and I'm absolutely thrilled with the results. I highly recommend them!",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 5,
+        "service": "ADU Construction",
+        "text": "Building an ADU seemed daunting, but Johnny General Contractor ADU made it a breeze. They handled everything from permits to final inspection. The ADU is beautiful and exactly what we needed. A truly professional and reliable team!",
+        "date": "2024-10-28"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 4,
+        "service": "Bathroom Remodel",
+        "text": "We hired Johnny to remodel our master bathroom. The result is beautiful! There were a couple of minor delays, but Johnny communicated clearly and resolved everything quickly. Would definitely use them again.",
+        "date": "2024-09-05"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Whole House Remodel",
+        "text": "Johnny and his crew did an amazing job remodeling our entire house. They were meticulous, detail-oriented, and always respectful of our property. The transformation is incredible, and we couldn't be happier with the outcome. A fantastic team to work with!",
+        "date": "2024-08-12"
+      },
+      {
+        "name": "Emily C.",
+        "rating": 5,
+        "service": "Deck & Patio Construction",
+        "text": "We love our new patio! Johnny General Contractor ADU designed and built a beautiful space that's perfect for entertaining. They were professional, efficient, and always responsive to our questions. Highly recommend!",
+        "date": "2024-07-20"
+      },
+      {
+        "name": "Michael A.",
+        "rating": 4,
+        "service": "Earthquake Retrofitting",
+        "text": "While I hope I never need to test it, I feel much safer knowing my home has been properly earthquake retrofitted. Johnny's team was thorough and explained the entire process clearly. A worthwhile investment for peace of mind.",
+        "date": "2024-06-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "San Diego Remodeling Contractor | ADU Experts",
+        "description": "Top-rated San Diego remodeling contractor specializing in ADUs, kitchens, bathrooms, and whole-house renovations. Free consultations!"
+      },
+      "about": {
+        "title": "About Johnny General Contractor ADU",
+        "description": "Learn about Johnny General Contractor ADU's commitment to quality remodeling in San Diego. Serving Chula Vista, Carlsbad, Escondido."
+      },
+      "services": {
+        "title": "San Diego Remodeling Services",
+        "description": "Comprehensive remodeling services: ADUs, kitchens, bathrooms, room additions, earthquake retrofitting. Serving San Diego County."
+      },
+      "contact": {
+        "title": "Contact Johnny General Contractor ADU",
+        "description": "Contact Johnny General Contractor ADU for remodeling quotes and project inquiries in San Diego. Call +18582218304."
+      },
+      "reviews": {
+        "title": "Johnny General Contractor ADU Reviews",
+        "description": "Read reviews from satisfied San Diego remodeling clients. See why we're a trusted contractor in San Diego County."
+      },
+      "service-areas": {
+        "title": "San Diego Remodeling Service Areas",
+        "description": "Remodeling contractor serving Chula Vista, Carlsbad, Escondido, and all of San Diego County. Get a free quote today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "812+",
+      "satisfaction": "98%",
+      "teamSize": "22+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "adu-construction": "/images/service-adu-construction.webp",
+      "kitchen-remodeling": "/images/service-kitchen-remodeling.webp",
+      "bathroom-remodeling": "/images/service-bathroom-remodeling.webp",
+      "whole-house-remodeling": "/images/service-whole-house-remodeling.webp",
+      "room-additions": "/images/service-room-additions.webp",
+      "deck-patio-construction": "/images/service-deck-patio-construction.webp",
+      "earthquake-retrofitting": "/images/service-earthquake-retrofitting.webp"
+    },
+    "servicesResponsive": {
+      "adu-construction": {
+        "src": "/images/service-adu-construction.webp",
+        "srcset": "/images/service-adu-construction-400w.webp 400w, /images/service-adu-construction-800w.webp 800w, /images/service-adu-construction-1200w.webp 1200w, /images/service-adu-construction.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "kitchen-remodeling": {
+        "src": "/images/service-kitchen-remodeling.webp",
+        "srcset": "/images/service-kitchen-remodeling-400w.webp 400w, /images/service-kitchen-remodeling-800w.webp 800w, /images/service-kitchen-remodeling-1200w.webp 1200w, /images/service-kitchen-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "bathroom-remodeling": {
+        "src": "/images/service-bathroom-remodeling.webp",
+        "srcset": "/images/service-bathroom-remodeling-400w.webp 400w, /images/service-bathroom-remodeling-800w.webp 800w, /images/service-bathroom-remodeling-1200w.webp 1200w, /images/service-bathroom-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "whole-house-remodeling": {
+        "src": "/images/service-whole-house-remodeling.webp",
+        "srcset": "/images/service-whole-house-remodeling-400w.webp 400w, /images/service-whole-house-remodeling-800w.webp 800w, /images/service-whole-house-remodeling-1200w.webp 1200w, /images/service-whole-house-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "room-additions": {
+        "src": "/images/service-room-additions.webp",
+        "srcset": "/images/service-room-additions-400w.webp 400w, /images/service-room-additions-800w.webp 800w, /images/service-room-additions-1200w.webp 1200w, /images/service-room-additions.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-patio-construction": {
+        "src": "/images/service-deck-patio-construction.webp",
+        "srcset": "/images/service-deck-patio-construction-400w.webp 400w, /images/service-deck-patio-construction-800w.webp 800w, /images/service-deck-patio-construction-1200w.webp 1200w, /images/service-deck-patio-construction.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "earthquake-retrofitting": {
+        "src": "/images/service-earthquake-retrofitting.webp",
+        "srcset": "/images/service-earthquake-retrofitting-400w.webp 400w, /images/service-earthquake-retrofitting-800w.webp 800w, /images/service-earthquake-retrofitting-1200w.webp 1200w, /images/service-earthquake-retrofitting.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
